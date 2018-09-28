@@ -1,0 +1,16 @@
+{
+  "name": "alfred-mcr",
+  "version": "1.0.0",
+  "description": "View any Minecraft recipes",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "author": "Elliott Linder <elliott@linder.bz>",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.7.0",
+    "globby": "^8.0.1"
+  }
+}
