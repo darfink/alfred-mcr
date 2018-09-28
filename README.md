@@ -16,5 +16,5 @@ $ npm install --global alfred-mcr
 
 In Alfred, type `mcr`, <kbd>Enter</kbd>, and the name of your block.
 
-To view a recipe, press shift whilst the item is highlighted. You can also
-view the item in your default image viewer by selecting it.
+To view a recipe, press shift whilst the item is highlighted.  
+You can also view the item in your default image viewer by selecting it.
